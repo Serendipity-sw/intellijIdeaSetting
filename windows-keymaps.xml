@@ -1,0 +1,59 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="DatabaseView.OpenDdlInConsole" />
+  <action id="Debugger.EditTypeSource" />
+  <action id="EditSourceInNewWindow" />
+  <action id="ExternalJavaDoc" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Go.NewGoFile">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="GotoPreviousError" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift f1" />
+  </action>
+  <action id="NewHtmlFile">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="NewStylesheetFile">
+    <keyboard-shortcut first-keystroke="shift f4" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ShowErrorDescription" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
+</keymap>
